@@ -1,4 +1,9 @@
 # Open Science in Practice 2017
+
+* `Binder at oilgains`: https://beta.mybinder.org/v2/gh/binder-oilgains/epfl-osip-2017/master
+
+
+
 Workshop for [Open Science in Practice at EPFL 2017](https://osip2017.epfl.ch/).
 
 
